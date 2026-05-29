@@ -1,6 +1,6 @@
 # Lexical Erosion
 
-*How industrial capitalism systematically pruned the human lexicon — and what we lost when the words disappeared.*
+*How industrial capitalism systematically pruned the human lexicon and what we lost when the words disappeared.*
 
 ---
 
@@ -31,7 +31,7 @@ This research examines the multi-layered impact of industrial capitalism on lang
 
 ## Key Arguments
 
-The transition to industrial capitalism did not merely reorganize labor — it performed a measurable **ideational inflation** and **lexical erosion**, replacing communal and relational vocabulary with acquisitive, individualistic, and transaction-based language.
+The transition to industrial capitalism did not merely reorganize labor, it performed a measurable **ideational inflation** and **lexical erosion**, replacing communal and relational vocabulary with acquisitive, individualistic, and transaction-based language.
 
 Evidence drawn from:
 - UCLA Ngram Viewer analysis of 1.5 million English-language books
